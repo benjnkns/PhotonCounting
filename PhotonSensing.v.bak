@@ -1,0 +1,11 @@
+module PhotonSensing ( input button1, input button2, output reg led_on);
+
+
+
+always @* (posedge button1) begin
+	if (button2)	led_on <= 1'b1;
+	else				led_on <= 1'b0;
+end
+
+endmodule
+	

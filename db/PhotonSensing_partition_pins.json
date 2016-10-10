@@ -1,0 +1,85 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "led0",
+					"strict" : false
+				},
+				{
+					"name" : "led1",
+					"strict" : false
+				},
+				{
+					"name" : "led2",
+					"strict" : false
+				},
+				{
+					"name" : "led3",
+					"strict" : false
+				},
+				{
+					"name" : "led4",
+					"strict" : false
+				},
+				{
+					"name" : "led5",
+					"strict" : false
+				},
+				{
+					"name" : "led6",
+					"strict" : false
+				},
+				{
+					"name" : "led7",
+					"strict" : false
+				},
+				{
+					"name" : "led8",
+					"strict" : false
+				},
+				{
+					"name" : "led9",
+					"strict" : false
+				},
+				{
+					"name" : "led10",
+					"strict" : false
+				},
+				{
+					"name" : "led11",
+					"strict" : false
+				},
+				{
+					"name" : "led12",
+					"strict" : false
+				},
+				{
+					"name" : "led13",
+					"strict" : false
+				},
+				{
+					"name" : "led14",
+					"strict" : false
+				},
+				{
+					"name" : "led15",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "button2",
+					"strict" : false
+				},
+				{
+					"name" : "button1",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
